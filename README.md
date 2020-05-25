@@ -2,7 +2,7 @@
  Very basic functions of Blockchain, implemented in Typescript
 
 # Author
-Gaurav Kabra
+> Gaurav Kabra
 
 # Installation
 In VS Code, open terminal and type : <br>
